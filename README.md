@@ -31,7 +31,7 @@
 * [Table of Contents](#💻-table-of-contents)
 * [Technologies](#🛠-technologies)
 * [Project](#🚀-project)
-    * [Tracking]
+    * [Management](#management)
     * [Requirements](#requirements)
     * [Implementation/Running]
     * [Tests]
